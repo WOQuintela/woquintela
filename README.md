@@ -57,8 +57,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/walter-oswaldo-quintela-huiza-4a05a996/"><img height="180em" src="https://img.freepik.com/fotos-premium/chiang-rai-tailandia-13-marzo-2023-icono-logotipo-linkedin-3d-aislado-sobre-fondo-blanco_640106-897.jpg"/></a>
-<a href="mailto:walterquintela@gmail.com"><img height="180em" src="[https://images.app.goo.gl/v2ypf6RcR6S4y5HD6](https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png)"/></a>
+<a href="https://www.linkedin.com/in/walter-oswaldo-quintela-huiza-4a05a996/" target="new"><img height="180em" src="https://img.freepik.com/fotos-premium/chiang-rai-tailandia-13-marzo-2023-icono-logotipo-linkedin-3d-aislado-sobre-fondo-blanco_640106-897.jpg"/></a>
+<a href="mailto:walterquintela@gmail.com" target="new"><img height="180em" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
