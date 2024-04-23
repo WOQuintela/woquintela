@@ -30,7 +30,7 @@
 ### 🗃 &nbsp;Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![PHP]([https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white](https://images.app.goo.gl/vcLy72mkUUAaGY8i8))&nbsp;
+![PHP](https://images.app.goo.gl/vcLy72mkUUAaGY8i8))&nbsp;
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
