@@ -57,8 +57,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/walter-oswaldo-quintela-huiza-4a05a996/">[Linkedin](https://images.app.goo.gl/ZxM5eNBvV3nMFuCY7)</a>
-<a href="mailto:walterquintela@gmail.com">walterquintela@gmail.com</a>
+<a href="https://www.linkedin.com/in/walter-oswaldo-quintela-huiza-4a05a996/"><img height="180em" src="https://images.app.goo.gl/ZxM5eNBvV3nMFuCY7"/></a>
+<a href="mailto:walterquintela@gmail.com"><img height="180em" src="https://images.app.goo.gl/v2ypf6RcR6S4y5HD6"/></a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
