@@ -57,14 +57,14 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/walter-oswaldo-quintela-huiza-4a05a996/"><img src="https://img.shields.io/badge/-Aditya%20Sunit%20Kanoi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:walterquintela@gmail.com"><img src="https://img.shields.io/badge/-Adityakanoi-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/walter-oswaldo-quintela-huiza-4a05a996/">Linkedin</a>
+<a href="mailto:walterquintela@gmail.com">walterquintela@gmail.com</a>
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ...
 
 <div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
+  <a href="https://github.com/woquintela/">
   <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
