@@ -30,7 +30,7 @@
 ### 🗃 &nbsp;Databases
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![PHP](https://images.app.goo.gl/vcLy72mkUUAaGY8i8))&nbsp;
+![PHP](https://images.app.goo.gl/vcLy72mkUUAaGY8i8)&nbsp;
 
 ### 🧰 &nbsp;Version Controll & Tools 
 
@@ -57,7 +57,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/walter-oswaldo-quintela-huiza-4a05a996/">Linkedin</a>
+<a href="https://www.linkedin.com/in/walter-oswaldo-quintela-huiza-4a05a996/">[Linkedin](https://images.app.goo.gl/ZxM5eNBvV3nMFuCY7)</a>
 <a href="mailto:walterquintela@gmail.com">walterquintela@gmail.com</a>
 </p>
 
